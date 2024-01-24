@@ -28,7 +28,7 @@ The text is composed of four sections:
 
 # Annotation formalism and choices
 
-The document is annotated according to the typological formalism of [Universal Dependencies](https://universaldependencies.org) (UD), in particular as it is applied for Latin. It follows the annotation's state of the art as represented especially by the UDante treebank (Cecchini et al., 2020) and the harmonisation effort by Gamba & Zeman (2023a, 2023b), however implementing some slight (and compatible) twists. These are highlighted in the following, along more general annotation choices which might be of interest to the user. 
+The document is annotated according to the typological formalism of [Universal Dependencies](https://universaldependencies.org) (UD), in particular as it is applied for Latin. It follows the annotation's state of the art as represented especially by the UDante treebank (Cecchini et al., 2020) and the harmonisation effort by Gamba & Zeman (2023a, 2023b), however implementing some slight (and compatible) twists. These are highlighted in the following, along with more general annotation choices which might be of interest to the user. 
 
 ## Lexicon
 
