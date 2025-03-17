@@ -220,7 +220,7 @@ Please refer to UD's [guidelines for morpholexical features](https://universalde
 # Contacts
 
 - Federica Gamba, ÚFAL, MFF, Univerzita Karlova, Prague, Czech Republic: `gamba at ufal.mff.cuni.cz`
-- Flavio Massimiliano Cecchini, KU Leuven, Belgium (formerly CIRCSE, Universita Cattolica del Sacro Cuore, Milan, Italy): `flavio.cecchini at live.it`
+- Flavio Massimiliano Cecchini, KU Leuven, Belgium (formerly CIRCSE, Universita Cattolica del Sacro Cuore, Milan, Italy): `flaviomassimiliano.cecchini at kuleuven.be`
 
 # References
 
